@@ -59,10 +59,9 @@ Glaucoma                   |  Cataract
 ![43_right](https://user-images.githubusercontent.com/83496813/183260534-74799061-67fd-4e31-8ec5-abccd7ebc132.jpg) |  ![81_left](https://user-images.githubusercontent.com/83496813/183260539-fe388a3f-8418-45c8-a5b0-0a9e3af6ba7a.jpg)
 
 
-Diabetes                   |  Myopia
-:-------------------------:|:-------------------------:
-![1994_right](https://user-images.githubusercontent.com/83496813/183260544-cb8b64f4-07fb-4e42-98cc-3684edab43b5.jpg)  |  ![39_left](https://user-images.githubusercontent.com/83496813/183260556-018a602d-b917-488f-8e5d-1f97f8617df6.jpg)
-
+Diabetes                   |  
+:-------------------------:|
+![1994_right](https://user-images.githubusercontent.com/83496813/183260544-cb8b64f4-07fb-4e42-98cc-3684edab43b5.jpg)  |
 
 
 # ML Approaches (accuracy)
